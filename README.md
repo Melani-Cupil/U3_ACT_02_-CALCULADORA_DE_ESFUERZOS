@@ -6,7 +6,7 @@ Los tres casos específicos disponibles para su resolución en el algoritmo son 
 ![image alt](https://github.com/Melani-Cupil/U3_ACT_02_-CALCULADORA_DE_ESFUERZOS/blob/447fd89b7e4ada3a53c423679937d8348ad6d676/Tabla%201.jpeg)
 
 ## El algoritmo solicita al usuario ingresar los datos en metros y calcula el esfuerzo normal total de todos los puntos de análisis.  
-![image alt]( https://github.com/Melani-Cupil/U3_ACT_02_-CALCULADORA_DE_ESFUERZOS/blob/7f9677d5d18a7079b743b2c2fce50b9a8eaaddcc/Caso%20A.png)
+![image alt]()
 ![image alt]( https://github.com/Melani-Cupil/U3_ACT_02_-CALCULADORA_DE_ESFUERZOS/blob/7f9677d5d18a7079b743b2c2fce50b9a8eaaddcc/Caso%20B.png)  
 
 ![image alt]( https://github.com/Melani-Cupil/U3_ACT_02_-CALCULADORA_DE_ESFUERZOS/blob/7f9677d5d18a7079b743b2c2fce50b9a8eaaddcc/Caso%20C.png)  
