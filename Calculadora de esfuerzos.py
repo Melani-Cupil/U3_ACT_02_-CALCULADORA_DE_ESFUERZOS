@@ -1,10 +1,19 @@
 import math
 
 def mostrar_introduccion():
-    print("      ALGORITMO PARA EL CÁLCULO DE ESFUERZOS NORMALES")
-    print("Descripción: Solución a los tres casos de la Tabla 1.")
-    print("Este programa solicita la geometría en metros y calcula el")
-    print("esfuerzo normal total en los puntos de análisis.")
+    print("           ALGORITMO DE ANÁLISIS DE ESFUERZOS NORMALES")
+    print("Este programa ha sido diseñado para calcular el esfuerzo normal total")
+    print("en elementos elongados sometidos a flexión en secciones transversales específicas.")
+    print("\nCASOS DISPONIBLES:")
+    print("Caso A: Perfil en L (Ángulo de lados iguales/desiguales).")
+    print("Caso B: Perfil en I (Viga IPE/W).")
+    print("Caso C: Sección Circular Hueca (Tubería).")
+    print("\nFUNCIONAMIENTO:")
+    print("  1. El usuario selecciona el tipo de perfil a analizar.")
+    print("  2. Se solicitan las dimensiones geométricas (base, altura, espesor)")
+    print("     estrictamente en METROS (m).")
+    print("  3. El algoritmo calcula el centroide, momentos de inercia y")
+    print("     finalmente el esfuerzo en cada punto crítico del perfil.")
 
 def calcular_perfil_l():
     print("CÁLCULO DE ESFUERZOS: CASO A (PERFIL L)")
