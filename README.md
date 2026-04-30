@@ -5,7 +5,6 @@ El siguiente algoritmo muestra la resolución a través de codificación de los 
 
 Se le solicita al usuario ingresar los datos en metros y calcula el esfuerzo normal total de todos los puntos de análisis.  
 ![image alt]( https://github.com/Melani-Cupil/U3_ACT_02_-CALCULADORA_DE_ESFUERZOS/blob/7f9677d5d18a7079b743b2c2fce50b9a8eaaddcc/Caso%20A.png)
-
 ![image alt]( https://github.com/Melani-Cupil/U3_ACT_02_-CALCULADORA_DE_ESFUERZOS/blob/7f9677d5d18a7079b743b2c2fce50b9a8eaaddcc/Caso%20B.png)  
 
 ![image alt]( https://github.com/Melani-Cupil/U3_ACT_02_-CALCULADORA_DE_ESFUERZOS/blob/7f9677d5d18a7079b743b2c2fce50b9a8eaaddcc/Caso%20C.png)  
@@ -13,6 +12,7 @@ Se le solicita al usuario ingresar los datos en metros y calcula el esfuerzo nor
 
 Este proyecto fue realizado como evidencia de la unidad tres de la materia Mecánica de Materiales, para el Instituto Tecnológico Nacional de México,
 Campus Comalcalco.  
+
 Elaborado por los Alumnos:  
   Alejandro de la O Alberto  
   Avila Dagdug Valeria Sofia  
